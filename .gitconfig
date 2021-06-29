@@ -1,0 +1,12 @@
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+	amend-ne = commit --amend --no-edit
+	last = diff HEAD~
+[user]
+	name = Hiep Bui
+	email = buidohiep@gmail.com
+[pager]
+	branch = false

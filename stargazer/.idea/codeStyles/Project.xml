@@ -1,0 +1,36 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <ScalaCodeStyleSettings>
+      <option name="importLayout">
+        <array>
+          <option value="java" />
+          <option value="scala" />
+          <option value="_______ blank line _______" />
+          <option value="base package imports" />
+          <option value="_______ blank line _______" />
+          <option value="all other imports" />
+          <option value="_______ blank line _______" />
+          <option value="anduin" />
+          <option value="com.anduin" />
+          <option value="stargazer" />
+        </array>
+      </option>
+      <option name="FORMATTER" value="1" />
+      <option name="USE_SCALADOC2_FORMATTING" value="true" />
+    </ScalaCodeStyleSettings>
+    <editorconfig>
+      <option name="ENABLED" value="false" />
+    </editorconfig>
+    <codeStyleSettings language="JAVA">
+      <indentOptions>
+        <option name="INDENT_SIZE" value="2" />
+        <option name="CONTINUATION_INDENT_SIZE" value="2" />
+        <option name="TAB_SIZE" value="2" />
+        <option name="USE_TAB_CHARACTER" value="true" />
+      </indentOptions>
+    </codeStyleSettings>
+    <codeStyleSettings language="Scala">
+      <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    </codeStyleSettings>
+  </code_scheme>
+</component>
